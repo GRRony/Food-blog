@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+
+  
+}
+/* header{
+   height: 70px;
+   background-color: #1C3180;
+   color:#FFFFFF ;
+   
+} */
+.nest{
+    width: 1167px;
+    margin: 21px auto;
+    border:2px solid white;
+    
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 64px;
+    height: 70px;
+   background-color: #1C3180;
+   color:#FFFFFF ;
+   border: 2px solid white;
+}
+h1:hover{
+    text-decoration: 2px solid #0abde3 underline ;
+    
+}
+.box{
+    margin: 42px auto;
+    width:999px; 
+    padding-left: 43px;
+    border:2px solid white;
+    
+}
+
+
+h2{
+    font-weight: bold;
+font-size: 48px;
+color: #000000;
+border: 2px solid white;
+
+}
+h2:hover{
+    text-decoration: 2px solid #0abde3 underline ;
+}
+.chobi{
+    width: 968px;
+    height: 439px; 
+}
+
+img{
+    width: 968px;
+    height: 439px;  
+}
+
+.p1{
+    font-weight: normal;
+    font-size: 24px;
+    border: 2px solid white;
+}
+.p1:hover{
+    text-decoration: 2px solid #0abde3 underline ;
+}
+.box2{
+    background-color:  #1C3180;
+    border:2px solid white;
+    
+    
+}
+
+.box3{
+    margin: auto ;
+    width: 900px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 102px;
+}
+h3{
+    font-weight: bold;
+    font-size: 48px;
+    color:#FE630E;
+    border: 2px solid white;
+}
+h3:hover{
+    text-decoration: 2px solid #0abde3 underline ;
+}
+.p2{
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color:  #FFFFFF;
+    border: 2px solid white;
+}
+.p2:hover{
+    text-decoration: 2px solid #0abde3 underline ;
+} 
+.api{
+   color:#FE630E ; 
+   text-decoration: underline;
+}
+
+.in1{
+ background-color: #FE630E;
+ color:  #FFFFFF;;
+ width: 150px;
+height: 62px;
+text-align: center;
+
+border: 2px solid white;
+}
+.in1:hover{
+    text-decoration: 2px solid #0abde3 underline ;
+}
+.in2{
+    background-color: #FFFFFF;
+    color: #1C3180;
+    width: 150px;
+height: 62px;
+text-align: center;
+}
+.in2:hover{
+    text-decoration: 2px solid #0abde3 underline ;
+}
+h1:hover, .nest:hover, .box:hover, .box2:hover{
+          border:2px solid  #0abde3 ; 
+         
+}
